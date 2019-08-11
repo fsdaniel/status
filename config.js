@@ -19,7 +19,7 @@ module.exports = {
       'members.palaceworld.net',
       'www.palaceworld.net',
       'api.palaceworld.net',
-      'proprooms v2'
+      'proprooms'
     ]
   },
   theme: {
