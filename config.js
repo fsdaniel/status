@@ -16,9 +16,9 @@ module.exports = {
     systems: [
       'gamebots',
       'petbots',
-      'members.palaceworld.net',
-      'www.palaceworld.net',
-      'api.palaceworld.net',
+      'members-palaceworld-net',
+      'www-palaceworld-net',
+      'api-palaceworld-net',
       'proprooms'
     ]
   },

@@ -5,10 +5,10 @@ severity: under-maintenance
 affectedsystems:
   - gamebots
   - petbots
-  - members.palaceworld.net
-  - www.palaceworld.net
-  - api.palaceworld.net
-  - proprooms v2
+  - members-palaceworld-net
+  - www-palaceworld-net
+  - api-palaceworld-net
+  - proprooms
 resolved: true
 ---
 Trying out the new status page system
