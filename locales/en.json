@@ -1,4 +1,29 @@
 {
-  "title": "PalaceWorld status",
-  "description": "Status of services provided by palaceworld"
+  "title": "Palaceworld",
+  "description": "state of systems",
+  "links": {
+    "home": "https://www.palaceworld.net"
+  },
+  "systems": {
+    "items": {
+      "gamebots": {
+        "title": "Gamebots"
+      },
+      "petbots": {
+        "title": "Petbots"
+      },
+      "members.palaceworld.net": {
+        "title": "members.palaceworld.net"
+      },
+      "www.palaceworld.net": {
+        "title": "www.palaceworld.net"
+      },
+      "api.palaceworld.net": {
+        "title": "API"
+      },
+      "proprooms": {
+        "title": "proprooms v2"
+      }
+    }
+  }
 }
