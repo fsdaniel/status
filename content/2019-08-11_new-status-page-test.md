@@ -9,7 +9,7 @@ affectedsystems:
   - www.palaceworld.net
   - api.palaceworld.net
   - proprooms v2
-resolved: false
+resolved: true
 ---
 Trying out the new status page system
 
