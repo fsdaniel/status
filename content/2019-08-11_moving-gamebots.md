@@ -1,5 +1,5 @@
 ---
-title: Moving gamebots
+title: Moving gamebots!
 date: '2019-08-11T23:20:58.633Z'
 severity: under-maintenance
 affectedsystems:
